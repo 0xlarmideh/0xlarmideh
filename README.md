@@ -12,6 +12,8 @@ I'm Abdulhameed Busari, an upcoming Software Developer. Currently work as a Soci
 - 📫 You can [view my resume](https://drive.google.com/file/d/1f1Jumj2uml5AQ5hKJUzs1beU1m698BMQ/view?usp=share_link) and contact me by emailing busarioyewole@gmail.com.
 - 🌐 You can have a look at my portfolio website [here](www.larmideh.me)
 
+My stack is : HTML, CSS, ES6 JavsScript, ReactJS, VueJS, TailWind CSS, SASS, TypeScript.
+
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xlarmideh&show_icons=true&include_all_commits=true&hide_border=true" alt="Abdulhameed's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlarmideh&langs_count=8&layout=compact&hide_border=true" alt="Abdulhaameed's GitHub stats" /> |
