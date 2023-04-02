@@ -6,13 +6,13 @@ I'm Abdulhameed Busari, an upcoming Software Developer. Currently work as a Soci
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: AltSchool Africa Graduate [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front-end Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front-end Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1f1Jumj2uml5AQ5hKJUzs1beU1m698BMQ/view?usp=share_link) and contact me by emailing busarioyewole@gmail.com.
 - 🌐 You can have a look at my portfolio website [here](www.larmideh.me)
 
-My stack is : HTML, CSS, ES6 JavsScript, ReactJS, VueJS, TailWind CSS, SASS, TypeScript.
+My stack is : HTML, CSS, ES6 JavsScript, ReactJS, NextJs, VueJS, TailWind CSS, Material UI, SASS, TypeScript.
 
 ---
 
