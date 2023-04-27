@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-larmideh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larmideh)](https://www.linkedin.com/in/larmideh) [![Twitter Badge](https://img.shields.io/badge/-@0x_larmideh-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/0x_larmideh)](https://twitter.com/0x_larmideh)
 
-I'm Abdulhameed Busari, an upcoming Software Developer. Currently work as a Social Media Intern at ShipFinex. I'm passionate about technology, psychology and also reading books. 
+I'm Abdulhameed Busari, an upcoming Software Developer. I'm passionate about technology, psychology and also reading books. 
 
 **Here's a quick summary about me**:
 
