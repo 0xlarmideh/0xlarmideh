@@ -2,16 +2,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-larmideh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larmideh)](https://www.linkedin.com/in/larmideh) [![Twitter Badge](https://img.shields.io/badge/-@0x_larmideh-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/0x_larmideh)](https://twitter.com/0x_larmideh)
 
-I'm Abdulhameed Busari, an upcoming Software Engineer. I'm passionate about technology, AI, Machine Learning and also reading books. 
+I'm Abdulhameed Busari, a Software Engineer. I'm passionate about technology, AI, Machine Learning and also reading books. 
 
 **Here's a quick summary about me**:
 
 - 😊 I’m looking for help with open source projects, hackathons and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front-end Engineer (Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1gR_TZ48EIYQXOIVzMHYOKbfulEGl6OGV/view?usp=drive_link) and contact me by emailing busarioyewole@gmail.com.
+- 💼 Job interests: Software Engineer, Front-end Engineer, Full-stack Engineer (Junior level).
+- 📫 You can [view my resume](https://dub.sh/IDw51hp) and contact me by emailing busarioyewole@gmail.com.
 - 🌐 You can have a look at my portfolio website [here](https://larmideh.vercel.app/)
 
-My stack is : HTML, CSS, ES6 JavsScript, ReactJS, NextJs, VueJS, TailWind CSS, Material UI, SASS, TypeScript.
+My stack is : HTML, CSS, ES6 JavsScript, ReactJS, NextJs, VueJS, TailWind CSS, Material UI, SASS, TypeScript, NodeJs, ExpressJs.
 
 ---
 
