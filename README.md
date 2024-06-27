@@ -7,7 +7,7 @@ I'm Abdulhameed Busari, a Software Engineer. I'm passionate about technology, AI
 **Here's a quick summary about me**:
 
 - 😊 I’m looking for help with open source projects, hackathons and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front-end Engineer, Full-stack Engineer (Junior level).
+- 💼 Job interests: Software Engineer, Front-end Engineer, Full-stack Engineer.
 - 📫 You can [view my resume](https://dub.sh/IDw51hp) and contact me by emailing busarioyewole@gmail.com.
 - 🌐 You can have a look at my portfolio website [here](https://larmideh.vercel.app/)
 
